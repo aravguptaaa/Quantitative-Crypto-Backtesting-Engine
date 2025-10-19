@@ -3,14 +3,17 @@ __pycache__/
 *.pyo
 *.pyd
 *.pkl
+*.joblib
 *.parquet
 *.csv
-*.joblib
-.DS_Store
+*.ipynb_checkpoints/
+data/
+datasets/
+models/
+outputs/
+logs/
+.vscode/
 .venv/
 env/
-.ipynb_checkpoints/
-.vscode/
-data/
-models/
+.DS_Store
 
