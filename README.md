@@ -95,4 +95,3 @@ This engine serves as a powerful baseline for further quantitative research. Pot
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://app.outlier.ai/playground/LICENSE.md) file for details.
-# Quantitative-Crypto-Backtesting-Engine
