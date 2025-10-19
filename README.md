@@ -32,9 +32,8 @@ The engine is designed as a modular pipeline, mirroring the workflow used in pro
 
 The primary goal of a backtesting engine is to provide an unbiased evaluation of a strategy's viability. In this case, the framework successfully identified and quantified the strategy's lack of alpha, thereby achieving its main objective: **preventing capital deployment into an unprofitable model.**
 
-![1760854219670](image/README/1760854219670.png)
-
-![1760854244761](image/README/1760854244761.png)
+<img width="2878" height="940" alt="image" src="https://github.com/user-attachments/assets/5d13a962-37e4-418a-8c05-5fceeae139db" />
+<img width="2666" height="1512" alt="image" src="https://github.com/user-attachments/assets/ce429d41-c1b5-4c2d-bc48-8e1334783c1c" />
 
 | Metric                   | Value              | Interpretation                                                  |
 | ------------------------ | ------------------ | --------------------------------------------------------------- |
